@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_p_posts",
+  "info": {
+    "name": "posts",
+    "icon": "address-book",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
